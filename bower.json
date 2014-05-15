@@ -1,0 +1,24 @@
+{
+  "name": "Wado",
+  "version": "1.00.A",
+  "authors": [
+    "Binny V A <binnyva@gmail.com>"
+  ],
+  "description": "Helps me choose which place to go to.",
+  "main": "index.php",
+  "keywords": [
+    "date",
+    "place",
+    "gamification",
+    "choose"
+  ],
+  "license": "BSD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
