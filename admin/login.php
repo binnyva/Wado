@@ -41,4 +41,5 @@ END
 }
 
 $template->options['layout_file']	= 'templates/layout/login.php';
+$template->template = '';
 render();

@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^for/(.+) index.php?for=$1
+</IfModule>

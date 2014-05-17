@@ -31,7 +31,7 @@ include($GLOBALS['template']->template);
 <!-- End Content -->
 </div>
 
-<div id="footer">An <a href="http://www.bin-co.com/php/scripts/iframe/">iFrame</a> Application</div>
+<div id="footer"></div>
 
 <script src="<?php echo $config['site_url'] ?>bower_components/jquery/dist/jquery.min.js" type="text/javascript"></script>
 <script src="<?php echo $config['site_url'] ?>bower_components/bootstrap/dist/js/bootstrap.min.js"></script>

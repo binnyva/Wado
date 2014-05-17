@@ -66,7 +66,12 @@
                             </div>
                             <!-- /input-group -->
                         </li>
-                        <li><a href="dashboard.php"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a></li>
+                        <li><a href="index.php"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a></li>
+                        <li><a href="cities.php"><i class="fa fa-dashboard fa-fw"></i> Cities</a></li>
+                        <li><a href="activities.php"><i class="fa fa-dashboard fa-fw"></i> Activities</a></li>
+                        <li><a href="place_types.php"><i class="fa fa-dashboard fa-fw"></i> Place Types</a></li>
+                        <li><a href="places.php"><i class="fa fa-dashboard fa-fw"></i> Places</a></li>
+                        <li><a href="people.php"><i class="fa fa-dashboard fa-fw"></i> People</a></li>
                     </ul>
                     <!-- /#side-menu -->
                 </div>
